@@ -1,4 +1,6 @@
-# cucumber-html-reporter-custom-name
+# cucumber-html-reporter-custom-name 
+
+This is forked repo - Renamed Features into Test Cases - Simple update only. 
 
 [![Discord](https://img.shields.io/discord/1057960728692260975?label=Chat%20on%20Discord&logo=Discord&style=for-the-badge)](https://discord.gg/d6rfHkSDjc)
 [![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/WasiqB/multiple-cucumber-html-reporter/test.yml?label=Test%20Workflows&logo=GitHub&style=for-the-badge)](https://github.com/WasiqB/multiple-cucumber-html-reporter/actions)
