@@ -1,4 +1,4 @@
-# Multiple Cucumber HTML Reporter
+# cucumber-html-reporter-custom-name
 
 [![Discord](https://img.shields.io/discord/1057960728692260975?label=Chat%20on%20Discord&logo=Discord&style=for-the-badge)](https://discord.gg/d6rfHkSDjc)
 [![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/WasiqB/multiple-cucumber-html-reporter/test.yml?label=Test%20Workflows&logo=GitHub&style=for-the-badge)](https://github.com/WasiqB/multiple-cucumber-html-reporter/actions)
@@ -36,14 +36,14 @@ A sample can be found [here](https://wasiqb.github.io/multiple-cucumber-html-rep
 Install this module locally with the following command:
 
 ```bash
-npm install multiple-cucumber-html-reporter
+npm install cucumber-html-reporter-custom-name
 ```
 
 Save to dependencies or dev-dependencies:
 
 ```bash
-npm install multiple-cucumber-html-reporter --save
-npm install multiple-cucumber-html-reporter --save-dev
+npm install cucumber-html-reporter-custom-name --save
+npm install cucumber-html-reporter-custom-name --save-dev
 ```
 
 ## Compatibility
@@ -157,7 +157,7 @@ This will disable the log so will **NOT** see this.
 =====================================================================================
     Multiple Cucumber HTML report generated in:
 
-    /Users/WasiqB/multiple-cucumber-html-reporter/.tmp/index.html
+    /Users/WasiqB/cucumber-html-reporter-custom-name/.tmp/index.html
 ========================================================================
 ```
 

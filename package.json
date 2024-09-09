@@ -1,6 +1,6 @@
 {
-  "name": "multiple-cucumber-html-reporter",
-  "version": "3.7.0",
+  "name": "cucumber-html-reporter-custom-name",
+  "version": "1.0.0",
   "description": "Generate beautiful Cucumber.js reports for multiple instances (browsers / devices)",
   "keywords": [
     "cucumber",
@@ -26,7 +26,7 @@
     "type": "git",
     "url": "git+https://github.com/WasiqB/multiple-cucumber-html-reporter.git"
   },
-  "author": "WasiqB",
+  "author": "krishtmp",
   "bugs": {
     "url": "https://github.com/WasiqB/multiple-cucumber-html-reporter/issues"
   },
