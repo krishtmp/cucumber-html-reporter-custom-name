@@ -2,11 +2,6 @@
 
 This is forked repo - Renamed Features into Test Cases - Simple update only. 
 
-[![Discord](https://img.shields.io/discord/1057960728692260975?label=Chat%20on%20Discord&logo=Discord&style=for-the-badge)](https://discord.gg/d6rfHkSDjc)
-[![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/WasiqB/multiple-cucumber-html-reporter/test.yml?label=Test%20Workflows&logo=GitHub&style=for-the-badge)](https://github.com/WasiqB/multiple-cucumber-html-reporter/actions)
-[![GitHub](https://img.shields.io/github/license/WasiqB/multiple-cucumber-html-reporter?logo=open%20source%20initiative&style=for-the-badge)](http://opensource.org/licenses/MIT)
-[![npm](https://img.shields.io/npm/dm/multiple-cucumber-html-reporter?label=NPM%20Downloads&logo=NPM&style=for-the-badge)](https://nodei.co/npm/multiple-cucumber-html-reporter/)
-
 Multiple Cucumber HTML Reporter is a reporting module for Cucumber to parse the JSON output to a beautiful report. The difference between all the other reporting modules on the market is that this module has:
 
 - a quick overview of all tested features and scenarios
