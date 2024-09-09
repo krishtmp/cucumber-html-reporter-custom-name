@@ -24,13 +24,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WasiqB/multiple-cucumber-html-reporter.git"
+    "url": "git+https://github.com/krishtmp/cucumber-html-reporter-custom-name.git"
   },
   "author": "krishtmp",
   "bugs": {
-    "url": "https://github.com/WasiqB/multiple-cucumber-html-reporter/issues"
+    "url": "https://github.com/krishtmp/cucumber-html-reporter-custom-name/issues"
   },
-  "homepage": "https://github.com/WasiqB/multiple-cucumber-html-reporter#readme",
+  "homepage": "https://github.com/krishtmp/cucumber-html-reporter-custom-name#readme",
   "dependencies": {
     "find": "^0.3.0",
     "fs-extra": "^11.2.0",
