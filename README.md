@@ -1,6 +1,6 @@
 # cucumber-html-reporter-custom-name 
 
-This is forked repo - Renamed Features into Test Cases - Simple update only. 
+This is forked repo - Renamed Features into Journeys - Simple update only. 
 
 Multiple Cucumber HTML Reporter is a reporting module for Cucumber to parse the JSON output to a beautiful report. The difference between all the other reporting modules on the market is that this module has:
 
